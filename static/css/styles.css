@@ -1,0 +1,207 @@
+/* General Page Styling */
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f0f8ff; /* Light blue background */
+}
+
+/* Google Logo */
+.logo {
+    margin: 50px 0;
+    text-align: center;
+}
+
+.logo img {
+    width: 300px; /* Adjust width as needed */
+    height: auto;
+    object-fit: contain;
+}
+
+/* Search Bar Styling */
+.search-bar {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-bottom: 40px;
+}
+
+.search-bar form {
+    display: flex;
+    align-items: center;
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 30px;
+    background-color: white;
+    width: 50%;
+}
+
+.search-bar input {
+    flex: 1;
+    padding: 12px 20px;
+    border: none;
+    font-size: 1.2rem;
+    border-radius: 30px 0 0 30px;
+    outline: none;
+}
+
+.search-bar button {
+    padding: 12px 25px;
+    background-color: #1e90ff;
+    color: white;
+    border: none;
+    border-radius: 0 30px 30px 0;
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: bold;
+    transition: all 0.3s ease;
+}
+
+.search-bar button:hover {
+    background-color: #4682b4;
+}
+
+/* Fullscreen Player Slide */
+.player-slide {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.95);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 10;
+    padding: 20px;
+    box-sizing: border-box;
+    opacity: 1;
+    visibility: visible;
+    transition: opacity 0.3s ease, visibility 0.3s ease;
+}
+
+/* Close Button */
+.close-btn {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    width: 40px;
+    height: 40px;
+    background-color: white;
+    color: black;
+    border: none;
+    border-radius: 50%;
+    font-size: 1.5rem;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.close-btn:hover {
+    background-color: rgb(230, 225, 225);
+}
+
+/* Player Info Styling */
+.player-info {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 20px;
+    text-align: left;
+    background-color: #fff;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    max-width: 900px;
+    width: 100%;
+}
+
+/* Player Image */
+.player-slide img {
+    width: 180px;  /* Passport photo width */
+    height: 240px; /* Passport photo height */
+    object-fit: cover;
+    border-radius: 10px;
+    margin-right: 20px;
+}
+
+/* Player Info Section */
+.player-info-details {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 15px;
+    width: 600px;
+    margin-right: 60px;
+}
+
+/* Player Name Styling */
+.player-info h3 {
+    font-size: 2rem;
+    color: #1e90ff;
+    margin: 0;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-left: 100px;
+}
+
+/* Player Info Subtext (Grade, Id, Role, Base Price) */
+.player-info p {
+    font-size: 1.1rem;
+    color: #444;
+    margin: 3px 0;
+}
+
+.player-info .info-title {
+    font-weight: bold;
+    color: #333;
+}
+
+/* Base Price Bar */
+.base-price-bar {
+    background-color: #1e90ff;
+    color: white;
+    font-weight: bold;
+    padding: 8px;
+    border-radius: 10px;
+    width: 120px;
+    text-align: center;
+}
+
+/* Address and Contact Details */
+.player-info .address {
+    font-size: 1rem;
+    color: #333;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+
+.player-info .contact {
+    display: flex;
+    gap: 15px;
+    margin-left: 30px;
+}
+
+.player-info .contact p {
+    font-size: 1rem;
+    color: #555;
+}
+
+/* Info Title and Content Inline */
+.info-title, .info-content {
+    display: inline-block;
+    margin-right: 10px; /* Adds space between the title and content */
+}
+
+/* Player Image Styling */
+.player-slide img {
+    width: 180px;  /* Passport photo width */
+    height: 240px; /* Passport photo height */
+    object-fit: cover;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}

@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% load static %}
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KPL Auction</title>
+    <link rel="stylesheet" href="{% static 'css/styles.css' %}">
+</head>
+<body>
+    <div class="logo">
+        <img src="{% static 'images/logo.png' %}" alt="Logo">
+    </div>
+
+    <!-- Search Bar -->
+    <div class="search-bar">
+        <form method="GET" action="">
+            <input type="text" name="query" placeholder="Search by Name or Grade+ID (e.g., A1)">
+            <button type="submit">Search</button>
+        </form>
+    </div>
+
+    <!-- Player Results -->
+    <div id="results">
+        {% if query %}
+            {% if players %}
+                {% for player in players %}
+                <div class="player-slide show">
+                    <button class="close-btn" onclick="closeSlide()">×</button>
+                    <div class="player-info">
+                        <img src="{% static 'images/' %}{{ player.Image }}" alt="{{ player.Name }}">
+                        <div class="player-info-details">
+                            <h3>{{ player.Name }}</h3>
+                            <div class="player-info">
+                                <p><span class="info-title">Grade:</span><span class="info-content">{{ player.Grade }}</span></p>
+                                <p><span class="info-title">ID No.:</span><span class="info-content">{{ player.Id }}</span></p>
+                                <p><span class="info-title">Role:</span><span class="info-content">{{ player.Role }}</span></p>
+                                <p><span class="info-title">Base Price:</span><span class="base-price-bar">₹{{ player.Baseprice }}</span></p>
+                            </div>
+                            <div class="address">
+                                <p><span class="info-title">Address:</span><span class="info-content">{{ player.Address }}</span></p>
+                            </div>
+                            <div class="contact">
+                                <p><span class="info-title">Phone:</span><span class="info-content">{{ player.Phone }}</span></p>
+                            </div>
+                            <div class="contact">
+                                <p><span class="info-title">WhatsApp:</span><span class="info-content">{{ player.Whatsapp }}</span></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                {% endfor %}
+            {% else %}
+                <p>No players found. Try a different search!</p>
+            {% endif %}
+        {% endif %}
+    </div>
+
+    <script>
+        function closeSlide() {
+            document.querySelector('.player-slide').style.display = 'none';
+        }
+    </script>
+        
+        
+</body>
+</html>

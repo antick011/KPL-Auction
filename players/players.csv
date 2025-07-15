@@ -1,0 +1,89 @@
+Grade,Id,Name,Role,Address,Phone,Whatsapp,Image,Baseprice
+M,33,Sagar Das (Paku),All-Rounder,Rishra Rail Park,7003038663,7003038663,Sagar_Das.jpg,10
+M,39,Babu Debnath,All-Rounder,Kanaipur,8481012256,8481012256,Babu_Debnath.jpg,10
+M,75,Nirmal Singh,Batsman,Konnagar Sastri Nagar,9038746145,9038746145,Nirmal_Singh.jpg,10
+M,77,Abhinash Jha,All_Rounder,Konnagar Sastri Nagar,8583807988,8583807988,Abhinash_Jha.jpg,10
+M,85,Satyajit Roy,All_Rounder,Kanaipur,9007935718,9007935718,Satyajit_Roy.jpg,10
+M,88,Sovon Haldar,All_Rounder,Kanaipur,9007935718,9007935718,Sovon_Haldar.jpg,10
+M,92,Gourav Das,All_Rounder,Rishra Subhas Nagar,8442866465,8442866465,Gourav_Das.jpg,10
+M,96,Ashwini,All-Rounder,Sastri Nagar,9038746145,9038746145,Ashwini.jpg,10
+A,94,Anurag Basu,Batsman,Konnagar,9123319431,9123319431,Anurag_Basu.jpg,50
+A,23,Suman Kr Ganguly,All-Rounder,Konnagar C-Block,6291308393,8044243780,Suman_Ganguly,50
+A,24,Abhradeep Bhattacharjee,All-Rounder,Konnagar Surya Sen Road,6290348761,6290348761,Abhrajeep_Bhattacgarjee.jpg,50
+A,28,Titish Roy (Titu),All-Rounder,Rishra Subhas Nagar,7003082212,7003082212,Titish_Roy.jpg,50
+A,44,Sourav Kanral,All-Rounder,Konnagar Naw Para Sibh Tala,8420455073,8420455073,Sourav_Kanral.jpg,50
+A,49,Kuntal Banerjee,All-Rounder,Konnagar Naw Para Sibh Tala,8777686074,8777686074,Kuntal_Banerjee.jpg,50
+A,53,Subrata Baidya (Bapon),All-Rounder,Konnagar Kanaipur Harishabha,9123314338,9123314338,Subrata_Baidya.jpg,50
+A,78,Sujoy Ruidas,All-Rounder,Konnagar C-Block,6290483724,6290483724,Sujoy_Ruidas.jpg,50
+A,82,Subhojit Das (Sibu),All-Rounder,Konnagar Kanaipur Bansai Colony,9123775410,9123775410,Subhojit_Das.jpg,50
+A,91,Sanu Das,All-Rounder,Rishra Subhas Nagar,7980267595,7980267595,Sanu_Das.jpg,50
+B,9,Tuhin Mukherjee,All-Rounder,Konnagar Kanaipur,9088085780,9088085780,Tuhin_Mukherjee.jpg,40
+B,19,Ujjwal Mallick,Batsman,Konnagar Knaipur,7980350152,7980350152,Ujjwal_Mallick.jpg,40
+B,25,Loknath Das,All-Rounder,Konnagar Dakshin Pally,8240632730,8240632730,Loknath_Das.jpg,40
+B,26,Sourya Narayan Bhattacharya (Kuttush),All-Rounder,Konnagar Kanaipur,9062490485,9062490485,Sorya_Bhattacharya.jpg,40
+B,30,Abhipray Santra,All-Rounder,Rishra Rail Park,9330648441,9330648441,Abhipray_Santra.jpg,40
+B,36,Rahul Dutta,All-Rounder,Konnagar Jora Pukur,7003716486,7003716486,Rahul_Dutta.jpg,40
+B,37,Arup Mukherjee,All-Rounder,Konnagar Nabagram,7980406957,7980406957,Arup_Mukherjee.jpg,40
+B,43,Souvik Chatterjee (Sachin),All-Rounder,Konnagar Bansai,6289934045,6289934045,Souvik_Chatterjee.jpg,40
+B,45,Ujjal Mondal,All-Rounder,Konnagar Naw Para,9103326002,9103326002,Ujjal_Mondal.jpg,40
+B,46,Sisir Mondal,Batsman,Konnagar Naw Para,7890247675,7890247675,Sisir_Mondal.jpg,40
+B,55,Karthik Yadav,All-Rounder,Konnagar Kanaipur Harisabha,9330854619,9330854619,Karthik_Yadav.jpg,40
+B,57,Pritam Das,All-Rounder,Konnagar Naw Para,9163780414,9163780414,Pritam_Das.jpg,40
+B,59,Puku Karan,All-Rounder,Kanaipur Harisabha,6290823645,6290823645,Puku_Karan.jpg,40
+B,69,SK Sahil,All-Rounder,Konnagar Mirpur,6289883484,6289883484,Sk_Sahil.jpg,40
+B,70,Papai Khan,All-Rounder,Konnagar Harisabha,7278458432,7278458432,Papai_Khan.jpg,40
+B,73,Bishal Singh,Batsman,Konnagar Sastrinagar,8777651224,8777651224,Bishal_Singh.jpg,40
+B,76,Rishu Singh,Batsman,Konnagar Sastrinagar,9038746145,9038746145,Rishu_Singh.jpg,40
+B,90,Rupam Karmakar (Raja),All-Rounder,Kanaipur Colony,7980065041,7980065041,Rupam_Karmakar.jpg,40
+B,93,Sudipto Sadhukan (Dipu),All-Rounder,Konnagar Chakundi,9748707082,9748707082,Sudipto_Sadhukan.jpg,40
+B,89,Sayandip Manna (Chotu),All-Rounder,Kanaipur Sporting,7439977269,7439977269,Sayandip_Manna.jpg,40
+B,64,Ujjal Ruidas,All-Rounder,Kanaipur Barwaritala,9038171748,9038171748,Ujjal_Ruidas.jpg,40
+C,13,Anish Ghosh,Bowler,Konnagar Kanaipur,9874559399,9874559399,Anish_Ghosh.jpg,30
+C,14,Sukanta Mondal,Batsman,Konnagar Kanaipur,8336916790,8336916790,Sukanta_Mondal.jpg,30
+C,16,Karthik Dutta,Bowler,Konngar Ganganagar,8240192722,8240192722,Karthik_Dutta.jpg,30
+C,18,Rupam Ghosh (Manik),All-Rounder,Konnagar Kanaipur,7439463402,7439463402,Rupam_Ghosh.jpg,30
+C,20,Luv Paswan,All-Rounder,Konnagar Kanaipur,7439365102,7439712150,Luv_Paswan.jpg,30
+C,22,Rahul Prasad (Bultu),All-Rounder,Konnagar Nawpara,9748653688,9748653688,Rahul_Prasad.jpg,30
+C,29,Chintu,All-Rounder,Rishra Nawpara,9163841151,9163841151,Chintu.jpg,30
+C,31,Subhajit Saha,Batsman,Rishra,6289990766,6289990766,Subhajit_Saha.jpg,30
+C,32,Aniket Dutta (Papai),All-Rounder,Rishra Dakshin Para,9875408662,9875408662,Aniket_Dutta.jpg,30
+C,34,Basudeb Sardar,All-Rounder,Konnagar Kanaipur,9038422257,9038422257,Basudeb_Sardar.jpg,30
+C,35,Raju Chandra,Bowler,Konngar Kanaipur,987531765,9038360240,Raju_Chandra.jpg,30
+C,40,Sayan Dey,All-Rounder,Nabagram C Block,6291267461,6291267461,Sayan_Dey.jpg,30
+C,41,Kripa Chaudhury,All-Rounder,Kanaipur Colony,7980983882,7980983882,Kripa_Chaudhury.jpg,30
+C,42,DIPJYOTI,All-Rounder,Konnagar Nabagram,8479013250,8479013250,dipjyoti.jpg,30
+C,47,Arajit Das,All-Rounder,Konnagar Kanaipur,9163826008,9163826008,Arajit_Das.jpg,30
+C,48,Shuvajit Ghosh,Bolwer,Konnagar Kanaipur,8777473036,8777473036,Shuvajit_Ghosh.jpg,30
+C,50,Suraj Singh,All-Rounder,Kanaipur Harisava,6290287318,6290287318,Suraj_Singh.jpg,30
+C,51,Sumon Saha,All-Rounder,Nabagram C Block,7980645523,7980645523,Sumon_Saha.jpg,30
+C,52,Sourav Dey,All-Rounder,Kanaipur Harisava,8981634287,8981634287,Sourav_Dey.jpg,30
+C,54,Sabuj Roy,All-Rounder,Kanaipur Harisava,8910578021,8910578021,Sabuj_Roy.jpg,30
+C,56,Akash Bag,All-Rounder,Kanaipur Harisava,9051824687,9051824687,Akash_Bag.jpg,30
+C,60,Ayan Maity,All-Rounder,Nabagram B Block,7003129069,7003129069,Ayan_Maity.jpg,30
+C,66,Tarak Adhikary,All-Rounder,Konnagar Ganganagr,8981295904,8981295904,Tarak_Adhikary.jpg,30
+C,71,Kumar Sundaram,All-Rounder,Konnagar Kanaipur,7003355265,7003355265,Kumar_Sundaram.jpg,30
+C,72,Manas Das,Batsman,Konnagar Barabahera,6289045492,6289045492,Manas_Das.jpg,30
+C,79,Abhishek Biswas (Maggi),Bowler,Konnagar Nabagram,7003285328,7003285328,Abhishek_Biswas.jpg,30
+C,80,Sudhir Poddar,Batsman,Kanaipur Nawpara,7044705577,7044705577,Sudhir_Poddar.jpg,30
+C,81,Bapan Sutar,Batsman,Konnagar Kanaipur,9903087254,9903087254,Bapan_Sutar.jpg,30
+C,83,Gourav Surokha,All-Rounder,Colony Porishad,9007935718,9007935718,Gourav_Surokha.jpg,30
+C,84,Nandan Payra,All-Rounder,Colony Porishad,9007935718,9007935718,Nandan_Payra.jpg,30
+C,87,Harsh Surekha,All-Rounder,Colony Porishad,9007935718,9007935718,Harsh_Surekha.jpg,30
+C,65,Robin Singh (Gagan),All-Rounder,Konnagar Kanaipur,9062491768,9062491768,Robin_Singh.jpg,30
+D,95,Ayan Dhenki,All-Rounder,Konnagar Nabagram,7003871802,7003871802,Ayan_Dhenki.jpg,20
+D,12,Saugata Dey (Josh),All-Rounder,Konnagar Kanaipur,6289608465,6289608465,Saugata_Dey.jpg,20
+D,15,Sushobhan Mondol,Bowler,Konnagar Kanaipur,8481081847,8481081847,Sushobhan_Mondol.jpg,20
+D,17,Pradip Das,Bowler,Konnagar Ganganagar,9038809648,9038809648,Pradip_Das.jpg,20
+D,21,Kush Paswan,All-Rounder,Konnagar Kanaipur,8084360030,8084360030,Kush_Paswan.jpg,20
+D,27,Antick Bhattacharjee,All-Rounder,Konnagar Ganganagar,8697853949,8697853949,Antick_Bhattacharjee.jpg,20
+D,38,Rahul Yadav,All-Rounder,Konnagar Kanaipur,6291667782,6291667782,Rahul_Yadav.jpg,20
+D,58,Debesh Ghosh,All-Rounder,Konnagar Kanaipur,9875402769,9875402769,Debesh_Ghosh.jpg,20
+D,61,Pankaj Dakua (Ghontu),Batsman,Konnagar Kanaipur,9123745413,9123745413,Pankaj_Dakua.jpg,20
+D,62,Rajib Karar,All-Rounder,Konnagar Kanaipur,8981361964,8981361964,Rajib_Karar.jpg,20
+D,67,Sayantan Adhikary,Bowler,Konnagar Ganganagar,8981295904,8981295904,Sayantan_Adhikary.jpg,20
+D,68,Partha Ghosh,All-Rounder,Konnagar Kanaipur,9123310267,9051099847,Partha_Ghosh.jpg,20
+D,74,Vikram Kumar,Batsman,Konnagar Sastrinagar,7439467458,7439467458,Vikram_Kumar.jpg,20
+D,86,Bittu Roy,All-Rounder,Konnagar Kanaipur,9007935718,9007935718,Bittu_Roy.jpg,20
+D,10,Kousik Das,Batsman,Konnagar Chotobahera,9088518876,9088518876,Kousik_Das.jpg,20
+D,11,Palas Mondal,Batsman,Konnagar,9330215438,9330215438,Palas_Mondal.jpg,20
+D,63,Rakesh Ghosh,Bowler,Konnagar Kanaipur,8910048907,7278423986,Rakesh_Ghosh.jpg,20
